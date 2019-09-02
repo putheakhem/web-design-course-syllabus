@@ -13,7 +13,8 @@ This HTML tutorial helps you master HTML. Mastering HTML and its many elements i
 
 #### Gettings Started with HTML 
    
-    HTML is a markup language the browser uses to present content to users, like text, links, images and more. It's the basic component from which all websites and applications on the web are built.
+HTML is a markup language the browser uses to present content to users, like text, links, images and more. It's the basic component from which all websites and applications on the web are built.
+
 1. What is HTML ?
 2. Global structure of an HTML Document. 
 3. Intro to HTML review.
@@ -25,7 +26,7 @@ This HTML tutorial helps you master HTML. Mastering HTML and its many elements i
 
 #### Structuring Your Content
 
-    Learn to write semantic HTML and use elements that describe sections of content.
+Learn to write semantic HTML and use elements that describe sections of content.
 
 1. Sementic HTML: `<header>`, `<footer>`,  and `<section>` 
 2. Sectioning content with `<article>`, `<nav>` and `<aside>`.
@@ -39,7 +40,7 @@ This HTML tutorial helps you master HTML. Mastering HTML and its many elements i
 
 #### Images, Text and Links
 
-    Learn to display images, work with file paths, and define text with special meaning.
+Learn to display images, work with file paths, and define text with special meaning.
 
 1. Understand File Paths
 2. Adding Image to the Page
@@ -52,7 +53,7 @@ This HTML tutorial helps you master HTML. Mastering HTML and its many elements i
 
 #### Going Further with HTML
 
-    Push your HTML skills further by learning more about file paths and linking to web pages. You'll also learn to work with special HTML characters, comment your code, and explore tips and resources that will help you go forward with HTML.
+Push your HTML skills further by learning more about file paths and linking to web pages. You'll also learn to work with special HTML characters, comment your code, and explore tips and resources that will help you go forward with HTML.
 1. Linking to a section to a web page.
 2. Root-relative paths
 3. Links and Paths Challenge
@@ -65,20 +66,22 @@ This HTML tutorial helps you master HTML. Mastering HTML and its many elements i
 10. Going Furture with HTML review
 
 
-
 ### CSS Course 
 
-    CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.
+CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.
 
-What You'll learn 
 
-    * Basic Selectors
-    * Common Values and Units 
-    * CSS Layout 
-    * New CSS Features 
+> What You'll learn 
+
+* Basic Selectors
+* Common Values and Units 
+* CSS Layout 
+* New CSS Features 
 
 #### Getting Started with CSS
-    Get started with one of the core technologies for designing and building websites and applications. In this stage, you'll learn about the evolution of CSS, helpful resources, and how to add CSS to a page. 
+
+Get started with one of the core technologies for designing and building websites and applications. In this stage, you'll learn about the evolution of CSS, helpful resources, and how to add CSS to a page. 
+
 1. CSS Basics Overview
 2. Introduction to CSS
 3. CSS Resources
@@ -90,7 +93,7 @@ What You'll learn
 
 #### Basic Selectors
 
-    Selectors are one of the most important and powerful parts of CSS. In this stage, you'll learn the different ways we can target HTML elements with basic selectors.
+Selectors are one of the most important and powerful parts of CSS. In this stage, you'll learn the different ways we can target HTML elements with basic selectors.
 1. Intro to Selectors
 2. Type of Selectors
 3. ID Selector 
@@ -104,7 +107,7 @@ What You'll learn
 
 #### Understanding Values and Units 
 
-    Every CSS property has a set of values it can accept. Most properties accept keywords that literally describe a value. Many properties also accept numbers, functions, length values, or a URL. In this stage, you'll learn the common values and units CSS properties accept.
+Every CSS property has a set of values it can accept. Most properties accept keywords that literally describe a value. Many properties also accept numbers, functions, length values, or a URL. In this stage, you'll learn the common values and units CSS properties accept.
 1. Common Data Types
 2. Pixel Units
 3. Percentages
@@ -121,7 +124,7 @@ What You'll learn
 
 #### The Box Model
 
-    The box model is the basis of CSS layout because it dictates how elements are displayed and how they interact with each other.
+The box model is the basis of CSS layout because it dictates how elements are displayed and how they interact with each other.
 1. The CSS Box Model
 2. Padding
 3. Borders
@@ -132,7 +135,7 @@ What You'll learn
 
 #### Basic Layout
 
-    In this stage, we'll continue styling our website with background properties and basic layout methods.
+In this stage, we'll continue styling our website with background properties and basic layout methods.
 1. Width and Height Properties
 2. Box-sizing and max-width 
 3. Backgrounds: Colors and Images
@@ -146,7 +149,7 @@ What You'll learn
 
 #### Enhacing the Design with CSS
 
-    In this stage, we'll add the finishing touches to the page using CSS features that display rounded corners, box shadows, gradients and more. Then, we'll make sure our page looks good on all devices, with media queries.
+In this stage, we'll add the finishing touches to the page using CSS features that display rounded corners, box shadows, gradients and more. Then, we'll make sure our page looks good on all devices, with media queries.
 1. Text Shadows
 2. Box Shadows
 3. Text Shadows and Box Shadows
@@ -161,3 +164,11 @@ What You'll learn
 12. Adjusting the Layout with Media Queries
 13. Media Queries 
 
+#### Fundamental Concepts
+
+Now that we've explored many of the core features of CSS, it's time to take this knowledge furture by learning important fundamental concepts. In this stage, you'll lear all about the CSS cascade, inheritance, and helpful tips and tools practice and retain what you're learning. 
+1. The Cascade: Importance 
+2. The Cascade: Specificity and Source Order
+3. Inheritance
+4. Learning Tips and Tools
+5. Fundamental Concepts Review
