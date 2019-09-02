@@ -3,8 +3,9 @@
 | Lecturer   | Mr Khem Puthea  |
 |---|---|
 | Location   | National Institute of Posts, Telecoms & ICT  |
-| Duration   |  15h  |
-| Day/Time  | Monday to Friday (7:30 AM - 9:00PM)  |
+| Duration   |  45h  |
+| Day/Time  | Monday to Friday|
+| Contact  | puthea.khem@niptict.edu.kh or contact@khemputhea.com|
 
 ## [HTML](HTML.md) 
 
