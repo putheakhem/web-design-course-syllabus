@@ -15,14 +15,11 @@ This HTML tutorial helps you master HTML. Mastering HTML and its many elements i
    
 HTML is a markup language the browser uses to present content to users, like text, links, images and more. It's the basic component from which all websites and applications on the web are built.
 
-1. What is HTML ?
-2. Global structure of an HTML Document. 
-3. Intro to HTML review.
-4. Headings and Paragraphs 
-5. Headings and Paragraphs Challenges.
-6. Creating Lists
-7. Creating Links
-8. Lists & Links Challenges
+1. What is HTML ? [Watch video](https://drive.google.com/file/d/115O_KoWoOIXj9Zix9ii-AIjtJlk809DS/view?usp=sharing)
+2. Global structure of an HTML Document. [Watch video](https://drive.google.com/file/d/1QH8oOT4N4FpSECYMWUVUdwFYibpV9w3c/view?usp=sharing)
+4. Headings and Paragraphs [Watch video](https://drive.google.com/file/d/1uG5Vj5RXbQsLVBAEmDUvmsjcaUeBu7wY/view?usp=sharing)
+6. Creating Lists [Watch video](https://drive.google.com/file/d/1ytiLiglyhiXz9EmWM01tlUnnf1hu_cxP/view?usp=sharing)
+7. Creating Links [Watch video](https://drive.google.com/file/d/1uCxEacjMCKiz1i-lh5_O-mCL32CAcgQ6/view?usp=sharing)
 
 #### Structuring Your Content
 
