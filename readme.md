@@ -5,7 +5,7 @@
 | Location   | National Institute of Posts, Telecoms & ICT  |
 | Duration   |  45h  |
 | Day/Time  | Monday to Friday|
-| Contact  | puthea.khem@niptict.edu.kh or contact@khemputhea.com|
+| Contact  | puthea.khem@niptict.edu.kh|
 
 ## [HTML](HTML.md) 
 
